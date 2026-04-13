@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the San Antonio-New Braunfels Metro Area, TX, US",
+  "export_job_id": "0f809194-869b-41ab-a870-11bad3fd9056",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 473012,
+  "location_name": "San Antonio-New Braunfels, TX",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-san-antonio-new-braunfels-metro-area-tx-us-sample-473012",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/473012/beamstation_473012_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
+  "sample_pct": 5.88,
+  "sample_records": 1,
+  "sample_sha256": "43dde084e57d4ba96a007c7319b7bffee2fc32c055d28617c6dd6125fd0496a4",
+  "sample_size_bytes": 20181,
+  "total_records": 17,
+  "updated_at": "2026-04-08T07:22:51.075354+00:00"
+}
