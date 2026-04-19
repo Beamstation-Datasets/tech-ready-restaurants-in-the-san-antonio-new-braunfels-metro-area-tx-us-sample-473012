@@ -9,9 +9,9 @@
 | Dataset ID | `473012` |
 | Location | San Antonio-New Braunfels, TX |
 | Category | Restaurants |
-| Full dataset size | 17 records |
-| Free sample size | 1 records (5.88%) |
-| Last export | 2026-04-08T07:22:51.075354+00:00 |
+| Full dataset size | 10 records |
+| Free sample size | 1 records (10.0%) |
+| Last export | 2026-04-15T10:46:14.936580+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-san-antonio-new-braunfels-metro-area-tx-us-sample-473012/releases/download/sample-latest/beamstation_473012_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
