@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1f8fa5b3-ba32-4f6c-849f-cd9bd856e21e",
+  "export_job_id": "843a0043-16a2-4429-8d3f-7af0928694db",
   "id_short": 473012,
-  "published_at": "2026-04-19T07:27:05Z",
+  "published_at": "2026-04-22T19:46:09Z",
   "repo_name": "tech-ready-restaurants-in-the-san-antonio-new-braunfels-metro-area-tx-us-sample-473012",
   "sample_asset_name": "beamstation_473012_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/473012/beamstation_473012_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "16f8781d5c33590935f1487e237bae00cb4182c3ed1f57b3013032cae6730a5f",
-  "sample_size_bytes": 19699,
-  "total_records": 10
+  "sample_sha256": "0ac129be56d44aaec7f625aca0afb41524fb427695ef7b3defd8052f4b983e39",
+  "sample_size_bytes": 20094,
+  "total_records": 3
 }
